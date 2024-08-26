@@ -1,0 +1,9 @@
+Nome: Itallo
+Turma: Python devolver
+Numero: 18
+
+------------------------------
+
+Nome: Pythn
+E-mail: front end
+Profissão: 01
